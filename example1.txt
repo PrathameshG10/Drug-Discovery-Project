@@ -1,0 +1,9 @@
+CCOC(=O)c1[nH]c(=O)[nH]c1-c1cccc(OCc2ccccc2)c1 (CHEMBL407399)
+
+Cc1nc(-c2ccc(Cl)cc2)nc(N2CCCC2)n1CC1CC1 (CHEMBL2202383)
+
+CN(C(=O)c1nc(-c2ccc(Cl)cc2)nc(N2CCCC2)n1)C1=CC=CC=C1 (CHEMBL398034)
+
+CCOC(=O)c1[nH]c(=O)[nH]c1-c1cccc(CN2CCCC2)c1 (CHEMBL453694)
+
+CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C (CHEMBL130478)
